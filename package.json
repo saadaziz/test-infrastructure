@@ -1,0 +1,15 @@
+{
+  "name": "test-infrastructure",
+  "version": "1.0.0",
+  "description": "Use this for coding challenges.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "saad0914@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.3",
+    "nodemon": "^2.0.19"
+  }
+}
