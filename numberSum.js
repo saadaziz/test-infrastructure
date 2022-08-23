@@ -9,6 +9,7 @@
  * Outputs:
  * Empty array, no matches | []
  * Array with tuple, matches criteria | [i, j]
+ * @return {number []}
 */
 const twoNumberSum = (arr, targetSum) => {
     
